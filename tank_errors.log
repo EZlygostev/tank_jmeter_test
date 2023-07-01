@@ -1,0 +1,121 @@
+2022-08-12 08:49:55,381	Failed to read Overload API token from token.txt
+2022-08-12 08:49:55,383	Exception occurred:
+<type 'exceptions.RuntimeError'>: API token error
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 377, in run
+    self.core.plugins_prepare_test()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 254, in plugins_prepare_test
+    plugin.prepare_test()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/plugin.py", line 239, in prepare_test
+    lp_job = self.lp_job
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/plugin.py", line 553, in lp_job
+    self._lp_job = self.__get_lp_job()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/plugin.py", line 569, in __get_lp_job
+    api_client = self.__get_api_client()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/plugin.py", line 529, in __get_api_client
+    self._api_token = self.read_token(self.get_option("token_file"))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/plugin.py", line 631, in read_token
+    raise RuntimeError("API token error")
+
+2022-08-12 08:49:55,386	Job number is not available yet
+2022-08-12 08:49:55,386	Job number is not available yet
+2022-08-12 08:49:55,394	File already exists: /var/loadtest/logs/2022-08-12_08-49-54.010368/phantom_stat_rvqXJT.log
+2022-08-12 08:49:55,394	File already exists: /var/loadtest/logs/2022-08-12_08-49-54.010368/phantom_RgWBsx.conf
+2022-08-12 08:49:55,395	File already exists: /var/loadtest/logs/2022-08-12_08-49-54.010368/phantom_LTn8WY.log
+2022-08-12 08:49:55,395	File already exists: /var/loadtest/logs/2022-08-12_08-49-54.010368/answ_xtk5yQ.log
+2022-08-12 08:49:55,396	File already exists: /var/loadtest/logs/2022-08-12_08-49-54.010368/phout_0Yj87e.log
+2022-08-12 08:49:55,396	File not found to collect: validation_error.yaml
+2022-08-12 08:51:31,852	Interrupting
+2022-08-12 08:51:33,759	File already exists: /var/loadtest/logs/2022-08-12_08-51-21.930429/phantom_stat_vRDA0F.log
+2022-08-12 08:51:33,760	File already exists: /var/loadtest/logs/2022-08-12_08-51-21.930429/phantom_K0qLF5.conf
+2022-08-12 08:51:33,761	File already exists: /var/loadtest/logs/2022-08-12_08-51-21.930429/phantom_tQoPtM.log
+2022-08-12 08:51:33,763	File not found to collect: validation_error.yaml
+2022-08-12 08:51:33,764	File already exists: /var/loadtest/logs/2022-08-12_08-51-21.930429/phout_cUlvfh.log
+2022-08-12 08:51:33,765	File already exists: /var/loadtest/logs/2022-08-12_08-51-21.930429/answ_AFCpVZ.log
+2022-08-12 08:53:24,054	File already exists: /var/loadtest/logs/2022-08-12_08-52-18.510562/phantom_stat_k2O3Fh.log
+2022-08-12 08:53:24,054	File already exists: /var/loadtest/logs/2022-08-12_08-52-18.510562/phout_cB69D_.log
+2022-08-12 08:53:24,055	File not found to collect: validation_error.yaml
+2022-08-12 08:53:24,056	File already exists: /var/loadtest/logs/2022-08-12_08-52-18.510562/phantom_stdout_stderr_Kn6ENA.log
+2022-08-12 08:53:24,057	File already exists: /var/loadtest/logs/2022-08-12_08-52-18.510562/phantom_xPjhcs.log
+2022-08-12 08:53:24,058	File already exists: /var/loadtest/logs/2022-08-12_08-52-18.510562/phantom_SB2i99.conf
+2022-08-12 08:53:24,058	File already exists: /var/loadtest/logs/2022-08-12_08-52-18.510562/answ_9YRQ7o.log
+2022-08-12 09:03:20,521	File already exists: /var/loadtest/logs/2022-08-12_09-02-14.969529/phantom_nwpeTn.log
+2022-08-12 09:03:20,523	File already exists: /var/loadtest/logs/2022-08-12_09-02-14.969529/answ_NlkkCB.log
+2022-08-12 09:03:20,525	File already exists: /var/loadtest/logs/2022-08-12_09-02-14.969529/phantom_stat_aB3yt6.log
+2022-08-12 09:03:20,526	File not found to collect: validation_error.yaml
+2022-08-12 09:03:20,528	File already exists: /var/loadtest/logs/2022-08-12_09-02-14.969529/phantom_stdout_stderr_dJJvbw.log
+2022-08-12 09:03:20,530	File already exists: /var/loadtest/logs/2022-08-12_09-02-14.969529/phantom_pt6nRQ.conf
+2022-08-12 09:03:20,531	File already exists: /var/loadtest/logs/2022-08-12_09-02-14.969529/phout_62nZaP.log
+2022-08-12 09:24:40,594	File already exists: /var/loadtest/logs/2022-08-12_09-23-35.008930/phantom_stdout_stderr_U3geWm.log
+2022-08-12 09:24:40,595	File already exists: /var/loadtest/logs/2022-08-12_09-23-35.008930/phantom_fAp28S.log
+2022-08-12 09:24:40,597	File not found to collect: validation_error.yaml
+2022-08-12 09:24:40,601	File already exists: /var/loadtest/logs/2022-08-12_09-23-35.008930/phantom_stat_fYbC_L.log
+2022-08-12 09:24:40,603	File already exists: /var/loadtest/logs/2022-08-12_09-23-35.008930/answ_NsyaOI.log
+2022-08-12 09:24:40,604	File already exists: /var/loadtest/logs/2022-08-12_09-23-35.008930/phantom_dJ16Wi.conf
+2022-08-12 09:24:40,606	File already exists: /var/loadtest/logs/2022-08-12_09-23-35.008930/phout_Nu9VL4.log
+2022-08-13 10:48:46,134	Interrupting
+2022-08-13 10:48:48,478	File already exists: /var/loadtest/logs/2022-08-13_10-48-42.156593/answ_cel29D.log
+2022-08-13 10:48:48,479	File already exists: /var/loadtest/logs/2022-08-13_10-48-42.156593/phantom_AZfpsy.log
+2022-08-13 10:48:48,480	File already exists: /var/loadtest/logs/2022-08-13_10-48-42.156593/phantom_stat_fUUnmq.log
+2022-08-13 10:48:48,481	File already exists: /var/loadtest/logs/2022-08-13_10-48-42.156593/phout_DJrkJc.log
+2022-08-13 10:48:48,482	File already exists: /var/loadtest/logs/2022-08-13_10-48-42.156593/phantom_stdout_stderr_BD8CIX.log
+2022-08-13 10:48:48,483	File already exists: /var/loadtest/logs/2022-08-13_10-48-42.156593/phantom_SjcxoD.conf
+2022-08-13 10:48:48,484	File not found to collect: validation_error.yaml
+2022-08-13 10:53:57,263	Test interrupted:
+<type 'exceptions.RuntimeError'>: Unable to access to JMeter executable file or it does not exist: /var/loadtest/apache-jmeter-3.3/bin/jmeter
+<traceback object at 0x7f5de45cb3b0>
+2022-08-13 10:54:18,029	Interrupting
+2022-08-13 11:24:25,918	Interrupting
+2022-08-14 11:01:31,033	Interrupting
+2022-08-14 11:10:48,442	Exception occurred:
+<type 'exceptions.IOError'>: [Errno 2] No such file or directory: '/home/ez/Desktop/tank/ezsmart.jmx'
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/consoleworker.py", line 375, in run
+    self.core.plugins_configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/core/tankcore.py", line 245, in plugins_configure
+    plugin.configure()
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/JMeter/plugin.py", line 75, in configure
+    self.original_jmx, self.jtl_file, self.get_option('variables'))
+
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/JMeter/plugin.py", line 202, in __add_jmeter_components
+    with open(jmx, 'r') as src_jmx:
+
+2022-08-14 11:10:48,443	Job number is not available yet
+2022-08-14 11:10:48,443	Job number is not available yet
+2022-08-14 11:10:48,448	File not found to collect: /home/ez/Desktop/tank/ezsmart.jmx
+2022-08-14 11:10:48,448	File not found to collect: validation_error.yaml
+2022-08-14 11:10:48,448	File already exists: /var/loadtest/logs/2022-08-14_11-10-48.376985/jmeter_m4nPmy.log
+2022-08-14 11:10:48,449	File already exists: /var/loadtest/logs/2022-08-14_11-10-48.376985/jmeter_X96nOo.jtl
+2022-08-14 11:11:57,642	Test interrupted:
+<type 'exceptions.RuntimeError'>: Unable to access to JMeter executable file or it does not exist: /opt/share/jmeter/bin/jmeter
+<traceback object at 0x7f7b4e3b4878>
+2022-08-14 11:12:22,504	Interrupting
+2022-08-14 12:08:52,282	Interrupting
+2022-08-24 11:24:36,874	Interrupting
+2022-08-25 09:31:40,555	Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 192, in __make_api_request
+    response = self.__send_single_request(request, ids.next(), trace=trace)
+  File "/usr/local/lib/python2.7/dist-packages/yandextank/plugins/DataUploader/client.py", line 131, in __send_single_request
+    resp = self.session.send(p, timeout=self.connection_timeout)
+  File "/usr/local/lib/python2.7/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPSConnectionPool(host='overload.yandex.net', port=443): Read timed out. (read timeout=30)
+
+2022-08-25 09:31:40,557	Network error, will retry in 10s...
+2022-08-25 10:52:05,585	Interrupting
+2022-09-04 16:02:14,026	Interrupting
+2022-09-10 06:12:16,661	Unknown Java exception, consider adding it to dictionary: Non HTTP response code: javax.net.ssl.SSLException
+2022-09-10 06:12:16,665	Unknown Java exception, consider adding it to dictionary: Non HTTP response code: javax.net.ssl.SSLException
+2022-09-10 06:12:16,668	Unknown Java exception. Non HTTP response code: javax.net.ssl.SSLException
+2022-09-10 06:12:16,669	Unknown Java exception. Non HTTP response code: javax.net.ssl.SSLException
+2022-09-10 06:12:20,307	Unknown Java exception, consider adding it to dictionary: Non HTTP response code: javax.net.ssl.SSLException
+2022-09-10 06:12:20,310	Unknown Java exception. Non HTTP response code: javax.net.ssl.SSLException
+2022-09-10 06:23:28,227	Interrupting

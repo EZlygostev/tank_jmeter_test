@@ -1,0 +1,7 @@
+2022-08-13 10:48:45.119 +0000 [info] [] Start
+2022-08-13 10:48:46.134 +0000 [error] [monitor_io] bq_sleep: Operation canceled
+2022-08-13 10:48:46.134 +0000 [error] [monitor_io] bq_sleep: Operation canceled
+2022-08-13 10:48:46.135 +0000 [error] [phantom_logger] bq_sleep: Operation canceled
+2022-08-13 10:48:46.135 +0000 [error] [benchmark_io stream_method brief_logger] bq_sleep: Operation canceled
+2022-08-13 10:48:46.139 +0000 [error] [benchmark_io] cond-wait: Operation canceled
+2022-08-13 10:48:46.141 +0000 [info] [] Exit

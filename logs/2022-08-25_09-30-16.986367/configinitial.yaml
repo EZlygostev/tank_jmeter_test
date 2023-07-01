@@ -1,0 +1,18 @@
+android: {enabled: false, package: yandextank.plugins.Android}
+autostop:
+  autostop: ['http(5xx,10%,5s)']
+  enabled: true
+  package: yandextank.plugins.Autostop
+bfg: {enabled: false, package: yandextank.plugins.Bfg}
+console: {enabled: true, package: yandextank.plugins.Console}
+core: {}
+influx: {enabled: false, package: yandextank.plugins.Influx}
+jmeter: {buffered_seconds: 60, enabled: true, ext_log: all, jmeter_path: jmeter, jmeter_ver: 5.5,
+  jmx: tank.jmx, package: yandextank.plugins.JMeter}
+json_report: {enabled: true, package: yandextank.plugins.JsonReport}
+overload: {enabled: true, package: yandextank.plugins.DataUploader, token_file: token.txt}
+phantom: {enabled: false, package: yandextank.plugins.Phantom}
+rcassert: {enabled: true, package: yandextank.plugins.RCAssert}
+rcheck: {enabled: true, package: yandextank.plugins.ResourceCheck}
+shellexec: {enabled: true, package: yandextank.plugins.ShellExec}
+telegraf: {enabled: false, package: yandextank.plugins.Telegraf}

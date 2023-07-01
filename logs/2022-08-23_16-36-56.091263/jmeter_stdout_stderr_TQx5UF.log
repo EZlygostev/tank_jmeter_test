@@ -1,0 +1,17 @@
+Aug 23, 2022 4:37:01 PM java.util.prefs.FileSystemPreferences$1 run
+INFO: Created user preferences directory.
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_zZB5QR.jmx
+Starting the test @ Tue Aug 23 16:37:01 UTC 2022 (1661272621370)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +      1 in 00:00:02 =    0.5/s Avg:  1555 Min:  1555 Max:  1555 Err:     0 (0.00%) Active: 2 Started: 2 Finished: 0
+summary +    623 in 00:00:26 =   24.3/s Avg:   400 Min:    78 Max:  9351 Err:   533 (85.55%) Active: 18 Started: 19 Finished: 1
+summary =    624 in 00:00:28 =   22.6/s Avg:   402 Min:    78 Max:  9351 Err:   533 (85.42%)
+summary +   1359 in 00:00:30 =   45.4/s Avg:   362 Min:    60 Max:  7773 Err:  1160 (85.36%) Active: 20 Started: 38 Finished: 18
+summary =   1983 in 00:00:58 =   34.5/s Avg:   374 Min:    60 Max:  9351 Err:  1693 (85.38%)
+summary +    952 in 00:00:31 =   30.3/s Avg:   540 Min:    63 Max: 20684 Err:   822 (86.34%) Active: 11 Started: 40 Finished: 29
+summary =   2935 in 00:01:29 =   33.0/s Avg:   428 Min:    60 Max: 20684 Err:  2515 (85.69%)
+summary +    225 in 00:00:15 =   14.6/s Avg:   489 Min:    63 Max: 12011 Err:   165 (73.33%) Active: 0 Started: 40 Finished: 40
+summary =   3160 in 00:01:44 =   30.3/s Avg:   432 Min:    60 Max: 20684 Err:  2680 (84.81%)
+Tidying up ...    @ Tue Aug 23 16:38:46 UTC 2022 (1661272726904)
+... end of run

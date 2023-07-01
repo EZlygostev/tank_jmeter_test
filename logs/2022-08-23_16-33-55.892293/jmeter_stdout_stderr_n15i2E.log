@@ -1,0 +1,13 @@
+Aug 23, 2022 4:34:01 PM java.util.prefs.FileSystemPreferences$1 run
+INFO: Created user preferences directory.
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_IBeJMi.jmx
+Starting the test @ Tue Aug 23 16:34:01 UTC 2022 (1661272441811)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +      1 in 00:00:02 =    0.5/s Avg:  1702 Min:  1702 Max:  1702 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary +     65 in 00:00:27 =    2.4/s Avg:   400 Min:    91 Max:  7413 Err:    59 (90.77%) Active: 1 Started: 1 Finished: 0
+summary =     66 in 00:00:29 =    2.3/s Avg:   419 Min:    91 Max:  7413 Err:    59 (89.39%)
+summary +     13 in 00:00:02 =    6.6/s Avg:   151 Min:    76 Max:   619 Err:     8 (61.54%) Active: 0 Started: 1 Finished: 1
+summary =     79 in 00:00:31 =    2.5/s Avg:   375 Min:    76 Max:  7413 Err:    67 (84.81%)
+Tidying up ...    @ Tue Aug 23 16:34:34 UTC 2022 (1661272474457)
+... end of run

@@ -1,0 +1,30 @@
+1661423637853	1505	Авторизация POST	200	false	1470	30	30	1505	965
+1661423638135	1239	Авторизация POST	200	false	1470	30	30	1239	697
+1661423638636	712	Авторизация POST	200	false	1470	30	30	712	222
+1661423638558	799	Авторизация POST	200	false	1470	30	30	799	254
+1661423638280	1070	Авторизация POST	200	false	1470	30	30	1070	547
+1661423637775	1574	Авторизация POST	200	false	1470	30	30	1573	1055
+1661423638002	1346	Авторизация POST	200	false	1470	30	30	1346	814
+1661423638024	1365	Авторизация POST	200	false	1470	30	30	1365	810
+1661423638244	1104	Авторизация POST	200	false	1470	30	30	1104	568
+1661423637706	1662	Авторизация POST	200	false	1470	30	30	1662	1107
+1661423638745	733	Авторизация POST	200	false	1470	20	20	733	222
+1661423638487	996	Авторизация POST	200	false	1470	20	20	996	346
+1661423637942	1550	Авторизация POST	200	false	1470	19	19	1550	874
+1661423638089	1413	Авторизация POST	200	false	1470	19	19	1412	736
+1661423637810	1681	Авторизация POST	200	false	1470	18	18	1681	1004
+1661423638417	1109	Авторизация POST	200	false	1470	17	17	1109	410
+1661423637707	1818	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	17	17	0	1122
+1661423638593	946	Авторизация POST	200	false	1470	14	14	946	219
+1661423637707	1842	Авторизация POST	200	false	1470	14	14	1842	1131
+1661423638172	1386	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	12	12	0	698
+1661423638673	893	Авторизация POST	200	false	1470	11	11	893	247
+1661423637732	1836	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	11	11	0	1084
+1661423638522	1078	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	8	8	0	290
+1661423638706	887	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	8	8	0	215
+1661423637706	1907	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	6	6	0	1168
+1661423638474	1135	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	6	6	0	348
+1661423638208	1400	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	5	5	0	604
+1661423638370	1273	Авторизация POST	200	false	1470	3	3	1273	442
+1661423638323	1326	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	2	2	0	493
+1661423637901	1761	Авторизация POST	Non HTTP response code: java.net.SocketException	false	3017	1	1	0	966

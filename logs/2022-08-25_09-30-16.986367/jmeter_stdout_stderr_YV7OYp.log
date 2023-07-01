@@ -1,0 +1,13 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_8_kdz6.jmx
+Starting the test @ Thu Aug 25 09:30:20 UTC 2022 (1661419820889)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +     51 in 00:00:10 =    5.1/s Avg:  1944 Min:  1012 Max:  6310 Err:     0 (0.00%) Active: 50 Started: 50 Finished: 0
+summary +    349 in 00:00:28 =   12.4/s Avg:  4309 Min:    64 Max: 33733 Err:     0 (0.00%) Active: 49 Started: 50 Finished: 1
+summary =    400 in 00:00:38 =   10.5/s Avg:  4007 Min:    64 Max: 33733 Err:     0 (0.00%)
+summary +    541 in 00:00:32 =   16.8/s Avg:  2035 Min:    56 Max: 52219 Err:     0 (0.00%) Active: 2 Started: 50 Finished: 48
+summary =    941 in 00:01:10 =   13.4/s Avg:  2873 Min:    56 Max: 52219 Err:     0 (0.00%)
+summary +      9 in 00:00:12 =    0.7/s Avg:  1983 Min:    58 Max: 10962 Err:     0 (0.00%) Active: 0 Started: 50 Finished: 50
+summary =    950 in 00:01:23 =   11.5/s Avg:  2865 Min:    56 Max: 52219 Err:     0 (0.00%)
+Tidying up ...    @ Thu Aug 25 09:31:44 UTC 2022 (1661419904588)
+... end of run

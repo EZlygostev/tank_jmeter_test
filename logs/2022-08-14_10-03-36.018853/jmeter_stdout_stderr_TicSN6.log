@@ -1,0 +1,7 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_pWlXB4.jmx
+Starting the test @ Sun Aug 14 10:03:40 UTC 2022 (1660471420358)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary =      4 in 00:00:01 =    4.1/s Avg:   192 Min:    24 Max:   613 Err:     0 (0.00%)
+Tidying up ...    @ Sun Aug 14 10:03:42 UTC 2022 (1660471422102)
+... end of run

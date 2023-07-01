@@ -1,0 +1,13 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_RkSaWH.jmx
+Starting the test @ Sun Sep 04 15:59:49 UTC 2022 (1662307189189)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +    369 in 00:00:10 =   37.2/s Avg:  3495 Min:   177 Max:  9050 Err:     0 (0.00%) Active: 195 Started: 200 Finished: 5
+summary +    140 in 00:00:32 =    4.4/s Avg: 12233 Min:   599 Max: 32515 Err:     2 (1.43%) Active: 146 Started: 200 Finished: 54
+summary =    509 in 00:00:42 =   12.3/s Avg:  5899 Min:   177 Max: 32515 Err:     2 (0.39%)
+summary +    271 in 00:00:33 =    8.3/s Avg: 20452 Min:     8 Max: 64691 Err:     1 (0.37%) Active: 11 Started: 200 Finished: 189
+summary =    780 in 00:01:14 =   10.5/s Avg: 10955 Min:     8 Max: 64691 Err:     3 (0.38%)
+summary +     20 in 00:00:02 =   10.5/s Avg: 33218 Min:    16 Max: 66795 Err:     0 (0.00%) Active: 0 Started: 200 Finished: 200
+summary =    800 in 00:01:16 =   10.5/s Avg: 11512 Min:     8 Max: 66795 Err:     3 (0.38%)
+Tidying up ...    @ Sun Sep 04 16:01:06 UTC 2022 (1662307266155)
+... end of run

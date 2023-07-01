@@ -1,0 +1,23 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_NFl3rI.jmx
+Starting the test @ Sun Sep 04 16:12:03 UTC 2022 (1662307923479)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +      1 in 00:00:00 =    2.7/s Avg:   158 Min:   158 Max:   158 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary +    269 in 00:00:26 =   10.5/s Avg:  1479 Min:    22 Max:  8550 Err:     0 (0.00%) Active: 20 Started: 77 Finished: 57
+summary =    270 in 00:00:26 =   10.4/s Avg:  1474 Min:    22 Max:  8550 Err:     0 (0.00%)
+summary +    373 in 00:00:30 =   12.5/s Avg:  1285 Min:    19 Max:  6471 Err:     0 (0.00%) Active: 10 Started: 166 Finished: 156
+summary =    643 in 00:00:56 =   11.5/s Avg:  1365 Min:    19 Max:  8550 Err:     0 (0.00%)
+summary +    362 in 00:00:30 =   12.0/s Avg:   630 Min:     9 Max:  4120 Err:     0 (0.00%) Active: 7 Started: 255 Finished: 248
+summary =   1005 in 00:01:26 =   11.7/s Avg:  1100 Min:     9 Max:  8550 Err:     0 (0.00%)
+summary +    352 in 00:00:30 =   11.8/s Avg:   380 Min:     6 Max:  2403 Err:     0 (0.00%) Active: 3 Started: 341 Finished: 338
+summary =   1357 in 00:01:56 =   11.7/s Avg:   913 Min:     6 Max:  8550 Err:     0 (0.00%)
+summary +    340 in 00:00:30 =   11.3/s Avg:   594 Min:     7 Max:  3490 Err:     0 (0.00%) Active: 11 Started: 430 Finished: 419
+summary =   1697 in 00:02:26 =   11.6/s Avg:   849 Min:     6 Max:  8550 Err:     0 (0.00%)
+summary +    361 in 00:00:30 =   12.1/s Avg:   753 Min:    14 Max:  3490 Err:     0 (0.00%) Active: 5 Started: 517 Finished: 512
+summary =   2058 in 00:02:56 =   11.7/s Avg:   832 Min:     6 Max:  8550 Err:     0 (0.00%)
+summary +    338 in 00:00:30 =   11.3/s Avg:   590 Min:     6 Max:  3563 Err:     0 (0.00%) Active: 3 Started: 600 Finished: 597
+summary =   2396 in 00:03:26 =   11.6/s Avg:   798 Min:     6 Max:  8550 Err:     0 (0.00%)
+summary +      4 in 00:00:00 =   17.8/s Avg:   820 Min:    55 Max:  1776 Err:     0 (0.00%) Active: 0 Started: 600 Finished: 600
+summary =   2400 in 00:03:26 =   11.6/s Avg:   798 Min:     6 Max:  8550 Err:     0 (0.00%)
+Tidying up ...    @ Sun Sep 04 16:15:30 UTC 2022 (1662308130234)
+... end of run

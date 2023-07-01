@@ -1,0 +1,21 @@
+overload:
+  enabled: true
+  package: yandextank.plugins.DataUploader
+  token_file: "token.txt"
+phantom:
+  enabled: false
+
+console:
+  enabled: true
+telegraf:
+  enabled: false
+
+  
+jmeter:
+  enabled: true
+  package: yandextank.plugins.JMeter
+  jmx: ezsmart.jmx
+  jmeter_path: jmeter
+  buffered_seconds: 0
+  jmeter_ver: 5.5
+

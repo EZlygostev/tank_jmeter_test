@@ -1,0 +1,9 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_Bglvn1.jmx
+Starting the test @ Sun Aug 14 10:55:01 UTC 2022 (1660474501982)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +      1 in 00:00:00 =    2.4/s Avg:     1 Min:     1 Max:     1 Err:     1 (100.00%) Active: 27 Started: 27 Finished: 0
+summary +    399 in 00:00:01 =  436.1/s Avg:    13 Min:     0 Max:   149 Err:   399 (100.00%) Active: 0 Started: 100 Finished: 100
+summary =    400 in 00:00:01 =  301.4/s Avg:    12 Min:     0 Max:   149 Err:   400 (100.00%)
+Tidying up ...    @ Sun Aug 14 10:55:04 UTC 2022 (1660474504160)
+... end of run

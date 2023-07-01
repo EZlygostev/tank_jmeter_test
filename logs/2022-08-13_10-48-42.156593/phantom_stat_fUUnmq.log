@@ -1,0 +1,104 @@
+"2022-08-13 10:48:46.121 +0000" : {
+  "main_scheduler" : {
+    "bqs" : {
+      "00044" : {
+        "mmconts" : [0, 324, 335],
+        "acts" : [343, 342],
+        "tstate" : { "idle" : 999905, "run" : 1991, "locked" : 0, "mmap" : 0 }
+      },
+      "00045" : {
+        "mmconts" : [0, 324, 335],
+        "acts" : [28, 27],
+        "tstate" : { "idle" : 960552, "run" : 35311, "locked" : 0, "mmap" : 5941 }
+      },
+      "00046" : {
+        "mmconts" : [0, 324, 335],
+        "acts" : [336, 335],
+        "tstate" : { "idle" : 999918, "run" : 1789, "locked" : 0, "mmap" : 38 }
+      }
+    }
+  },
+  "benchmark_io" : {
+    "simple_times" : {
+      "mcount" : {
+        "mcount" : { "41 -- 65" : 1, "6 -- 10" : 4, "4 -- 6" : 1 }
+      }
+    },
+    "stream_method" : {
+      "conns" : [6, 5],
+      "in" : [49260, 49155],
+      "out" : [354, 353],
+      "mmtasks" : [0, 0, 1],
+      "load" : 0.023,
+      "mcount" : {
+        "mcount" : { "Success" : 6 }
+      },
+      "http_proto0" : {
+        "mcount" : {
+          "mcount" : { "OK" : 6 }
+        }
+      },
+      "source_log" : {
+        "delta" : [0, 0, 22298]
+      },
+      "loggers" : {
+        "brief_logger" : {
+          "records" : [6, 5],
+          "out" : [341, 340]
+        }
+      }
+    }
+  }
+},
+"2022-08-13 10:48:46.134 +0000" : {
+  "main_scheduler" : {
+    "bqs" : {
+      "00044" : {
+        "mmconts" : [335, 335, 335],
+        "acts" : [0, 0],
+        "tstate" : { "idle" : 13404, "run" : 7, "locked" : 0, "mmap" : 0 }
+      },
+      "00045" : {
+        "mmconts" : [335, 335, 335],
+        "acts" : [0, 0],
+        "tstate" : { "idle" : 13399, "run" : 11, "locked" : 0, "mmap" : 0 }
+      },
+      "00046" : {
+        "mmconts" : [335, 335, 335],
+        "acts" : [0, 0],
+        "tstate" : { "idle" : 13238, "run" : 171, "locked" : 0, "mmap" : 0 }
+      }
+    }
+  },
+  "benchmark_io" : {
+    "simple_times" : {
+      "mcount" : {
+        "mcount" : { }
+      }
+    },
+    "stream_method" : {
+      "conns" : [0, 0],
+      "in" : [0, 0],
+      "out" : [0, 0],
+      "mmtasks" : [0, 0, 0],
+      "load" : 0.000,
+      "mcount" : {
+        "mcount" : { }
+      },
+      "http_proto0" : {
+        "mcount" : {
+          "mcount" : { }
+        }
+      },
+      "source_log" : {
+        "delta" : [0, 0, 0]
+      },
+      "loggers" : {
+        "brief_logger" : {
+          "records" : [0, 0],
+          "out" : [0, 0]
+        }
+      }
+    }
+  }
+}

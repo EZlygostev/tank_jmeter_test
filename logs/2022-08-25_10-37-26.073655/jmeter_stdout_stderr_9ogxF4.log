@@ -1,0 +1,13 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_obcT9R.jmx
+Starting the test @ Thu Aug 25 10:37:30 UTC 2022 (1661423850848)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +      1 in 00:00:01 =    0.7/s Avg:  1107 Min:  1107 Max:  1107 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary +    203 in 00:00:27 =    7.5/s Avg:   871 Min:    62 Max:  8419 Err:     0 (0.00%) Active: 12 Started: 19 Finished: 7
+summary =    204 in 00:00:29 =    7.2/s Avg:   872 Min:    62 Max:  8419 Err:     0 (0.00%)
+summary +    361 in 00:00:30 =   12.2/s Avg:  1137 Min:    62 Max: 19360 Err:     0 (0.00%) Active: 12 Started: 39 Finished: 27
+summary =    565 in 00:00:58 =    9.7/s Avg:  1041 Min:    62 Max: 19360 Err:     0 (0.00%)
+summary +    195 in 00:00:27 =    7.2/s Avg:   740 Min:    57 Max: 11303 Err:     0 (0.00%) Active: 0 Started: 40 Finished: 40
+summary =    760 in 00:01:25 =    8.9/s Avg:   964 Min:    57 Max: 19360 Err:     0 (0.00%)
+Tidying up ...    @ Thu Aug 25 10:38:56 UTC 2022 (1661423936936)
+... end of run

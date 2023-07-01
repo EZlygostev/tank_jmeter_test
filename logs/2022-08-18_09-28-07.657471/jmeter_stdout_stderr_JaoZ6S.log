@@ -1,0 +1,9 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_bZnWNE.jmx
+Starting the test @ Thu Aug 18 09:28:12 UTC 2022 (1660814892060)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +    235 in 00:00:18 =   13.2/s Avg:  2198 Min:    86 Max: 15162 Err:     0 (0.00%) Active: 83 Started: 100 Finished: 17
+summary +    165 in 00:00:10 =   16.7/s Avg:  9967 Min:    11 Max: 24078 Err:     0 (0.00%) Active: 0 Started: 100 Finished: 100
+summary =    400 in 00:00:28 =   14.5/s Avg:  5402 Min:    11 Max: 24078 Err:     0 (0.00%)
+Tidying up ...    @ Thu Aug 18 09:28:40 UTC 2022 (1660814920517)
+... end of run

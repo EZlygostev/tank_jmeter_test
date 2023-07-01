@@ -1,0 +1,19 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_vsH0Cr.jmx
+Starting the test @ Sun Sep 04 16:03:35 UTC 2022 (1662307415893)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +     93 in 00:00:23 =    4.0/s Avg:   172 Min:     6 Max:  1672 Err:     0 (0.00%) Active: 1 Started: 24 Finished: 23
+summary +    120 in 00:00:30 =    4.0/s Avg:   298 Min:     7 Max:  2688 Err:     0 (0.00%) Active: 1 Started: 54 Finished: 53
+summary =    213 in 00:00:53 =    4.0/s Avg:   243 Min:     6 Max:  2688 Err:     0 (0.00%)
+summary +    120 in 00:00:30 =    4.0/s Avg:   132 Min:     6 Max:   639 Err:     0 (0.00%) Active: 1 Started: 84 Finished: 83
+summary =    333 in 00:01:23 =    4.0/s Avg:   203 Min:     6 Max:  2688 Err:     0 (0.00%)
+summary +    119 in 00:00:30 =    4.0/s Avg:   125 Min:     6 Max:   602 Err:     0 (0.00%) Active: 1 Started: 113 Finished: 112
+summary =    452 in 00:01:53 =    4.0/s Avg:   183 Min:     6 Max:  2688 Err:     0 (0.00%)
+summary +    119 in 00:00:30 =    4.0/s Avg:   130 Min:     7 Max:   545 Err:     0 (0.00%) Active: 1 Started: 143 Finished: 142
+summary =    571 in 00:02:23 =    4.0/s Avg:   172 Min:     6 Max:  2688 Err:     0 (0.00%)
+summary +    120 in 00:00:30 =    4.0/s Avg:   133 Min:     6 Max:   828 Err:     0 (0.00%) Active: 1 Started: 173 Finished: 172
+summary =    691 in 00:02:53 =    4.0/s Avg:   165 Min:     6 Max:  2688 Err:     0 (0.00%)
+summary +    109 in 00:00:27 =    4.0/s Avg:   122 Min:     7 Max:   529 Err:     0 (0.00%) Active: 0 Started: 200 Finished: 200
+summary =    800 in 00:03:20 =    4.0/s Avg:   159 Min:     6 Max:  2688 Err:     0 (0.00%)
+Tidying up ...    @ Sun Sep 04 16:06:57 UTC 2022 (1662307617235)
+... end of run

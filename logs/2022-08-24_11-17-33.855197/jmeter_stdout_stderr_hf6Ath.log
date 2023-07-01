@@ -1,0 +1,8 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_4s8aHh.jmx
+Starting the test @ Wed Aug 24 11:17:38 UTC 2022 (1661339858411)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+Command: Shutdown received from /127.0.0.1
+Command: Shutdown received from /127.0.0.1
+Command: Shutdown received from /127.0.0.1
+Command: Shutdown received from /127.0.0.1

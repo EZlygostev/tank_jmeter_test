@@ -1,0 +1,157 @@
+2022-08-12 09:23:37.907 +0000 [info] [] Start
+2022-08-12 09:23:45.512 +0000 [error] [benchmark_io 050] format error
+2022-08-12 09:24:36.221 +0000 [error] [benchmark_io 000] 400 Empty response
+2022-08-12 09:24:36.221 +0000 [error] [benchmark_io 000] Empty response
+2022-08-12 09:24:36.221 +0000 [warning] [benchmark_io 000] Restart connecton #2
+2022-08-12 09:24:36.255 +0000 [error] [benchmark_io 002] 400 Empty response
+2022-08-12 09:24:36.255 +0000 [error] [benchmark_io 002] Empty response
+2022-08-12 09:24:36.255 +0000 [warning] [benchmark_io 002] Restart connecton #2
+2022-08-12 09:24:36.289 +0000 [error] [benchmark_io 001] 400 Empty response
+2022-08-12 09:24:36.289 +0000 [error] [benchmark_io 001] Empty response
+2022-08-12 09:24:36.289 +0000 [warning] [benchmark_io 001] Restart connecton #2
+2022-08-12 09:24:36.323 +0000 [error] [benchmark_io 003] 400 Empty response
+2022-08-12 09:24:36.323 +0000 [error] [benchmark_io 003] Empty response
+2022-08-12 09:24:36.323 +0000 [warning] [benchmark_io 003] Restart connecton #2
+2022-08-12 09:24:36.357 +0000 [error] [benchmark_io 005] 400 Empty response
+2022-08-12 09:24:36.357 +0000 [error] [benchmark_io 005] Empty response
+2022-08-12 09:24:36.357 +0000 [warning] [benchmark_io 005] Restart connecton #2
+2022-08-12 09:24:36.391 +0000 [error] [benchmark_io 004] 400 Empty response
+2022-08-12 09:24:36.392 +0000 [error] [benchmark_io 004] Empty response
+2022-08-12 09:24:36.392 +0000 [warning] [benchmark_io 004] Restart connecton #2
+2022-08-12 09:24:36.426 +0000 [error] [benchmark_io 006] 400 Empty response
+2022-08-12 09:24:36.427 +0000 [error] [benchmark_io 006] Empty response
+2022-08-12 09:24:36.427 +0000 [warning] [benchmark_io 006] Restart connecton #2
+2022-08-12 09:24:36.460 +0000 [error] [benchmark_io 007] 400 Empty response
+2022-08-12 09:24:36.460 +0000 [error] [benchmark_io 007] Empty response
+2022-08-12 09:24:36.460 +0000 [warning] [benchmark_io 007] Restart connecton #2
+2022-08-12 09:24:36.494 +0000 [error] [benchmark_io 008] 400 Empty response
+2022-08-12 09:24:36.495 +0000 [error] [benchmark_io 008] Empty response
+2022-08-12 09:24:36.495 +0000 [warning] [benchmark_io 008] Restart connecton #2
+2022-08-12 09:24:36.528 +0000 [error] [benchmark_io 009] 400 Empty response
+2022-08-12 09:24:36.528 +0000 [error] [benchmark_io 009] Empty response
+2022-08-12 09:24:36.528 +0000 [warning] [benchmark_io 009] Restart connecton #2
+2022-08-12 09:24:36.562 +0000 [error] [benchmark_io 011] 400 Empty response
+2022-08-12 09:24:36.562 +0000 [error] [benchmark_io 011] Empty response
+2022-08-12 09:24:36.562 +0000 [warning] [benchmark_io 011] Restart connecton #2
+2022-08-12 09:24:36.596 +0000 [error] [benchmark_io 010] 400 Empty response
+2022-08-12 09:24:36.596 +0000 [error] [benchmark_io 010] Empty response
+2022-08-12 09:24:36.596 +0000 [warning] [benchmark_io 010] Restart connecton #2
+2022-08-12 09:24:36.628 +0000 [error] [benchmark_io 012] 400 Empty response
+2022-08-12 09:24:36.629 +0000 [error] [benchmark_io 012] Empty response
+2022-08-12 09:24:36.629 +0000 [warning] [benchmark_io 012] Restart connecton #2
+2022-08-12 09:24:36.663 +0000 [error] [benchmark_io 013] 400 Empty response
+2022-08-12 09:24:36.663 +0000 [error] [benchmark_io 013] Empty response
+2022-08-12 09:24:36.663 +0000 [warning] [benchmark_io 013] Restart connecton #2
+2022-08-12 09:24:36.697 +0000 [error] [benchmark_io 014] 400 Empty response
+2022-08-12 09:24:36.697 +0000 [error] [benchmark_io 014] Empty response
+2022-08-12 09:24:36.697 +0000 [warning] [benchmark_io 014] Restart connecton #2
+2022-08-12 09:24:36.731 +0000 [error] [benchmark_io 015] 400 Empty response
+2022-08-12 09:24:36.731 +0000 [error] [benchmark_io 015] Empty response
+2022-08-12 09:24:36.732 +0000 [warning] [benchmark_io 015] Restart connecton #2
+2022-08-12 09:24:36.765 +0000 [error] [benchmark_io 016] 400 Empty response
+2022-08-12 09:24:36.765 +0000 [error] [benchmark_io 016] Empty response
+2022-08-12 09:24:36.765 +0000 [warning] [benchmark_io 016] Restart connecton #2
+2022-08-12 09:24:36.799 +0000 [error] [benchmark_io 017] 400 Empty response
+2022-08-12 09:24:36.799 +0000 [error] [benchmark_io 017] Empty response
+2022-08-12 09:24:36.799 +0000 [warning] [benchmark_io 017] Restart connecton #2
+2022-08-12 09:24:36.833 +0000 [error] [benchmark_io 018] 400 Empty response
+2022-08-12 09:24:36.833 +0000 [error] [benchmark_io 018] Empty response
+2022-08-12 09:24:36.834 +0000 [warning] [benchmark_io 018] Restart connecton #2
+2022-08-12 09:24:36.867 +0000 [error] [benchmark_io 019] 400 Empty response
+2022-08-12 09:24:36.867 +0000 [error] [benchmark_io 019] Empty response
+2022-08-12 09:24:36.867 +0000 [warning] [benchmark_io 019] Restart connecton #2
+2022-08-12 09:24:36.900 +0000 [error] [benchmark_io 020] 400 Empty response
+2022-08-12 09:24:36.900 +0000 [error] [benchmark_io 020] Empty response
+2022-08-12 09:24:36.900 +0000 [warning] [benchmark_io 020] Restart connecton #2
+2022-08-12 09:24:36.934 +0000 [error] [benchmark_io 021] 400 Empty response
+2022-08-12 09:24:36.934 +0000 [error] [benchmark_io 021] Empty response
+2022-08-12 09:24:36.934 +0000 [warning] [benchmark_io 021] Restart connecton #2
+2022-08-12 09:24:36.968 +0000 [error] [benchmark_io 022] 400 Empty response
+2022-08-12 09:24:36.968 +0000 [error] [benchmark_io 022] Empty response
+2022-08-12 09:24:36.968 +0000 [warning] [benchmark_io 022] Restart connecton #2
+2022-08-12 09:24:37.002 +0000 [error] [benchmark_io 023] 400 Empty response
+2022-08-12 09:24:37.002 +0000 [error] [benchmark_io 023] Empty response
+2022-08-12 09:24:37.002 +0000 [warning] [benchmark_io 023] Restart connecton #2
+2022-08-12 09:24:37.036 +0000 [error] [benchmark_io 024] 400 Empty response
+2022-08-12 09:24:37.036 +0000 [error] [benchmark_io 024] Empty response
+2022-08-12 09:24:37.036 +0000 [warning] [benchmark_io 024] Restart connecton #2
+2022-08-12 09:24:37.069 +0000 [error] [benchmark_io 025] 400 Empty response
+2022-08-12 09:24:37.069 +0000 [error] [benchmark_io 025] Empty response
+2022-08-12 09:24:37.069 +0000 [warning] [benchmark_io 025] Restart connecton #2
+2022-08-12 09:24:37.103 +0000 [error] [benchmark_io 026] 400 Empty response
+2022-08-12 09:24:37.103 +0000 [error] [benchmark_io 026] Empty response
+2022-08-12 09:24:37.103 +0000 [warning] [benchmark_io 026] Restart connecton #2
+2022-08-12 09:24:37.137 +0000 [error] [benchmark_io 027] 400 Empty response
+2022-08-12 09:24:37.137 +0000 [error] [benchmark_io 027] Empty response
+2022-08-12 09:24:37.138 +0000 [warning] [benchmark_io 027] Restart connecton #2
+2022-08-12 09:24:37.170 +0000 [error] [benchmark_io 028] 400 Empty response
+2022-08-12 09:24:37.170 +0000 [error] [benchmark_io 028] Empty response
+2022-08-12 09:24:37.170 +0000 [warning] [benchmark_io 028] Restart connecton #2
+2022-08-12 09:24:37.204 +0000 [error] [benchmark_io 029] 400 Empty response
+2022-08-12 09:24:37.204 +0000 [error] [benchmark_io 029] Empty response
+2022-08-12 09:24:37.204 +0000 [warning] [benchmark_io 029] Restart connecton #2
+2022-08-12 09:24:37.238 +0000 [error] [benchmark_io 030] 400 Empty response
+2022-08-12 09:24:37.239 +0000 [error] [benchmark_io 030] Empty response
+2022-08-12 09:24:37.239 +0000 [warning] [benchmark_io 030] Restart connecton #2
+2022-08-12 09:24:37.271 +0000 [error] [benchmark_io 031] 400 Empty response
+2022-08-12 09:24:37.272 +0000 [error] [benchmark_io 031] Empty response
+2022-08-12 09:24:37.272 +0000 [warning] [benchmark_io 031] Restart connecton #2
+2022-08-12 09:24:37.305 +0000 [error] [benchmark_io 032] 400 Empty response
+2022-08-12 09:24:37.305 +0000 [error] [benchmark_io 032] Empty response
+2022-08-12 09:24:37.306 +0000 [warning] [benchmark_io 032] Restart connecton #2
+2022-08-12 09:24:37.339 +0000 [error] [benchmark_io 033] 400 Empty response
+2022-08-12 09:24:37.339 +0000 [error] [benchmark_io 033] Empty response
+2022-08-12 09:24:37.339 +0000 [warning] [benchmark_io 033] Restart connecton #2
+2022-08-12 09:24:37.372 +0000 [error] [benchmark_io 034] 400 Empty response
+2022-08-12 09:24:37.372 +0000 [error] [benchmark_io 034] Empty response
+2022-08-12 09:24:37.372 +0000 [warning] [benchmark_io 034] Restart connecton #2
+2022-08-12 09:24:37.406 +0000 [error] [benchmark_io 035] 400 Empty response
+2022-08-12 09:24:37.406 +0000 [error] [benchmark_io 035] Empty response
+2022-08-12 09:24:37.406 +0000 [warning] [benchmark_io 035] Restart connecton #2
+2022-08-12 09:24:37.440 +0000 [error] [benchmark_io 036] 400 Empty response
+2022-08-12 09:24:37.440 +0000 [error] [benchmark_io 036] Empty response
+2022-08-12 09:24:37.440 +0000 [warning] [benchmark_io 036] Restart connecton #2
+2022-08-12 09:24:37.474 +0000 [error] [benchmark_io 037] 400 Empty response
+2022-08-12 09:24:37.474 +0000 [error] [benchmark_io 037] Empty response
+2022-08-12 09:24:37.474 +0000 [warning] [benchmark_io 037] Restart connecton #2
+2022-08-12 09:24:37.506 +0000 [error] [benchmark_io 038] 400 Empty response
+2022-08-12 09:24:37.507 +0000 [error] [benchmark_io 038] Empty response
+2022-08-12 09:24:37.507 +0000 [warning] [benchmark_io 038] Restart connecton #2
+2022-08-12 09:24:37.540 +0000 [error] [benchmark_io 039] 400 Empty response
+2022-08-12 09:24:37.540 +0000 [error] [benchmark_io 039] Empty response
+2022-08-12 09:24:37.540 +0000 [warning] [benchmark_io 039] Restart connecton #2
+2022-08-12 09:24:37.573 +0000 [error] [benchmark_io 040] 400 Empty response
+2022-08-12 09:24:37.574 +0000 [error] [benchmark_io 040] Empty response
+2022-08-12 09:24:37.574 +0000 [warning] [benchmark_io 040] Restart connecton #2
+2022-08-12 09:24:37.607 +0000 [error] [benchmark_io 041] 400 Empty response
+2022-08-12 09:24:37.607 +0000 [error] [benchmark_io 041] Empty response
+2022-08-12 09:24:37.607 +0000 [warning] [benchmark_io 041] Restart connecton #2
+2022-08-12 09:24:37.640 +0000 [error] [benchmark_io 042] 400 Empty response
+2022-08-12 09:24:37.641 +0000 [error] [benchmark_io 042] Empty response
+2022-08-12 09:24:37.641 +0000 [warning] [benchmark_io 042] Restart connecton #2
+2022-08-12 09:24:37.674 +0000 [error] [benchmark_io 043] 400 Empty response
+2022-08-12 09:24:37.674 +0000 [error] [benchmark_io 043] Empty response
+2022-08-12 09:24:37.674 +0000 [warning] [benchmark_io 043] Restart connecton #2
+2022-08-12 09:24:37.707 +0000 [error] [benchmark_io 044] 400 Empty response
+2022-08-12 09:24:37.707 +0000 [error] [benchmark_io 044] Empty response
+2022-08-12 09:24:37.707 +0000 [warning] [benchmark_io 044] Restart connecton #2
+2022-08-12 09:24:37.741 +0000 [error] [benchmark_io 045] 400 Empty response
+2022-08-12 09:24:37.741 +0000 [error] [benchmark_io 045] Empty response
+2022-08-12 09:24:37.741 +0000 [warning] [benchmark_io 045] Restart connecton #2
+2022-08-12 09:24:37.774 +0000 [error] [benchmark_io 046] 400 Empty response
+2022-08-12 09:24:37.774 +0000 [error] [benchmark_io 046] Empty response
+2022-08-12 09:24:37.774 +0000 [warning] [benchmark_io 046] Restart connecton #2
+2022-08-12 09:24:37.807 +0000 [error] [benchmark_io 047] 400 Empty response
+2022-08-12 09:24:37.807 +0000 [error] [benchmark_io 047] Empty response
+2022-08-12 09:24:37.807 +0000 [warning] [benchmark_io 047] Restart connecton #2
+2022-08-12 09:24:37.840 +0000 [error] [benchmark_io 048] 400 Empty response
+2022-08-12 09:24:37.841 +0000 [error] [benchmark_io 048] Empty response
+2022-08-12 09:24:37.841 +0000 [warning] [benchmark_io 048] Restart connecton #2
+2022-08-12 09:24:37.874 +0000 [error] [benchmark_io 049] 400 Empty response
+2022-08-12 09:24:37.874 +0000 [error] [benchmark_io 049] Empty response
+2022-08-12 09:24:37.874 +0000 [warning] [benchmark_io 049] Restart connecton #2
+2022-08-12 09:24:37.883 +0000 [error] [monitor_io] bq_sleep: Operation canceled
+2022-08-12 09:24:37.883 +0000 [error] [monitor_io] bq_sleep: Operation canceled
+2022-08-12 09:24:37.884 +0000 [error] [phantom_logger] bq_sleep: Operation canceled
+2022-08-12 09:24:37.885 +0000 [error] [benchmark_io stream_method brief_logger] bq_sleep: Operation canceled
+2022-08-12 09:24:37.885 +0000 [info] [] Exit

@@ -1,0 +1,22 @@
+overload:
+  enabled: true
+  package: yandextank.plugins.DataUploader
+  token_file: "token.txt"
+phantom:
+  enabled: false
+autostop:
+  autostop:
+    - http(5xx,10%,5s)
+console:
+  enabled: true
+telegraf:
+  enabled: false
+
+  
+jmeter:
+  enabled: true
+  jmx: tank.jmx
+  jmeter_path: jmeter
+  buffered_seconds: 60
+  jmeter_ver: 5.5
+

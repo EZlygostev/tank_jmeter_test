@@ -1,0 +1,7 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_HsvwGL.jmx
+Starting the test @ Sat Aug 13 11:43:06 UTC 2022 (1660390986418)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary =     20 in 00:00:01 =   18.4/s Avg:   130 Min:    19 Max:   338 Err:    20 (100.00%)
+Tidying up ...    @ Sat Aug 13 11:43:08 UTC 2022 (1660390988222)
+... end of run

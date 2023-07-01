@@ -1,0 +1,163 @@
+2022-08-13 11:43:02,030 [INFO] root consoleworker.py:434	Log file created
+2022-08-13 11:43:02,030 [INFO] root consoleworker.py:438	Logging handler <logging.FileHandler object at 0x7f8a7edd3c50> added
+2022-08-13 11:43:02,030 [INFO] root consoleworker.py:438	Logging handler <logging.StreamHandler object at 0x7f8a7ee1b890> added
+2022-08-13 11:43:02,030 [INFO] root consoleworker.py:438	Logging handler <logging.StreamHandler object at 0x7f8a7edbfa90> added
+2022-08-13 11:43:02,031 [INFO] root consoleworker.py:373	Created a folder for the test. /var/loadtest/logs/2022-08-13_11-43-01.965153
+2022-08-13 11:43:02,031 [INFO] yandextank.core.tankcore tankcore.py:237	Configuring plugins...
+2022-08-13 11:43:02,031 [INFO] yandextank.core.tankcore tankcore.py:190	Loading plugins...
+2022-08-13 11:43:02,031 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin rcheck from yandextank.plugins.ResourceCheck
+2022-08-13 11:43:02,031 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin json_report from yandextank.plugins.JsonReport
+2022-08-13 11:43:02,032 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin overload from yandextank.plugins.DataUploader
+2022-08-13 11:43:02,032 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin rcassert from yandextank.plugins.RCAssert
+2022-08-13 11:43:02,032 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin console from yandextank.plugins.Console
+2022-08-13 11:43:02,032 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin jmeter from yandextank.plugins.JMeter
+2022-08-13 11:43:02,032 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin shellexec from yandextank.plugins.ShellExec
+2022-08-13 11:43:02,032 [DEBUG] yandextank.core.tankcore tankcore.py:192	Loading plugin autostop from yandextank.plugins.Autostop
+2022-08-13 11:43:02,033 [DEBUG] yandextank.core.tankcore tankcore.py:212	Plugin instances: {'plugin_json_report': <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f8a7ed000d0>, 'plugin_autostop': <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f8a7ed5ad10>, 'plugin_shellexec': <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f8a7ed006d0>, 'plugin_console': <yandextank.plugins.Console.plugin.Plugin object at 0x7f8a7ed00d50>, 'plugin_jmeter': <yandextank.plugins.JMeter.plugin.Plugin object at 0x7f8a7ed003d0>, 'plugin_rcassert': <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f8a7ed00210>, 'plugin_rcheck': <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f8a7ed00e10>, 'plugin_overload': <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f8a7ed00d10>}
+2022-08-13 11:43:02,033 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f8a7ed000d0>
+2022-08-13 11:43:02,033 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.common.interfaces.GeneratorPlugin'>
+2022-08-13 11:43:02,033 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f8a7ed5ad10>
+2022-08-13 11:43:02,034 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f8a7ed006d0>
+2022-08-13 11:43:02,034 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.Console.plugin.Plugin object at 0x7f8a7ed00d50>
+2022-08-13 11:43:02,035 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.JMeter.plugin.Plugin object at 0x7f8a7ed003d0>
+2022-08-13 11:43:02,035 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=True): tank.jmx
+2022-08-13 11:43:02,035 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2022-08-13_11-43-01.965153/jmeter_v1USCc.jtl
+2022-08-13 11:43:02,036 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=True): /var/loadtest/logs/2022-08-13_11-43-01.965153/jmeter_fWsTk_.log
+2022-08-13 11:43:02,036 [DEBUG] yandextank.plugins.JMeter.plugin plugin.py:201	Original JMX: /var/loadtest/tank.jmx
+2022-08-13 11:43:02,036 [DEBUG] yandextank.plugins.JMeter.plugin plugin.py:217	Closing statement:     </hashTree>
+  </hashTree>
+</jmeterTestPlan>
+
+2022-08-13 11:43:02,038 [DEBUG] yandextank.plugins.JMeter.plugin plugin.py:258	Modified JMX: /var/loadtest/modified_HsvwGL.jmx
+2022-08-13 11:43:02,038 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/modified_HsvwGL.jmx
+2022-08-13 11:43:02,038 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2022-08-13_11-43-01.965153/jmeter_stdout_stderr_3CKQbM.log
+2022-08-13 11:43:02,038 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f8a7ed00210>
+2022-08-13 11:43:02,039 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f8a7ed00e10>
+2022-08-13 11:43:02,040 [DEBUG] yandextank.core.tankcore tankcore.py:244	Configuring <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f8a7ed00d10>
+2022-08-13 11:43:02,040 [INFO] yandextank.core.tankcore tankcore.py:249	Preparing test...
+2022-08-13 11:43:02,040 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f8a7ed000d0>
+2022-08-13 11:43:02,040 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f8a7ed5ad10>
+2022-08-13 11:43:02,040 [DEBUG] yandextank.common.interfaces plugin.py:74	Criterion string: http(5xx,10%,5s)
+2022-08-13 11:43:02,041 [DEBUG] yandextank.common.interfaces plugin.py:78	Criterion objects: {'http(5xx,10%,5s)': <yandextank.plugins.Autostop.criterions.HTTPCodesCriterion object at 0x7f8a7ed5a810>}
+2022-08-13 11:43:02,041 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.plugins.Console.plugin.Plugin'>
+2022-08-13 11:43:02,041 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f8a7ed006d0>
+2022-08-13 11:43:02,041 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.Console.plugin.Plugin object at 0x7f8a7ed00d50>
+2022-08-13 11:43:02,041 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.JMeter.plugin.Plugin object at 0x7f8a7ed003d0>
+2022-08-13 11:43:02,041 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.plugins.Console.plugin.Plugin'>
+2022-08-13 11:43:02,041 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f8a7ed00210>
+2022-08-13 11:43:02,041 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f8a7ed00e10>
+2022-08-13 11:43:02,041 [INFO] yandextank.common.interfaces plugin.py:39	Checking tank resources...
+2022-08-13 11:43:02,042 [DEBUG] netort.process process.py:23	Starting: sh -c "df --no-sync -m -P -l -x fuse -x tmpfs -x devtmpfs -x davfs -x nfs /var/loadtest/logs | tail -n 1 | awk '{print \$4}' "
+2022-08-13 11:43:02,598 [DEBUG] netort.process process.py:46	Process output:
+28249
+
+2022-08-13 11:43:02,598 [DEBUG] netort.process process.py:48	Process exit code: 0
+2022-08-13 11:43:02,598 [DEBUG] root plugin.py:58	Result: (0, '28249\n', '')
+2022-08-13 11:43:02,599 [DEBUG] yandextank.common.interfaces plugin.py:64	Disk free space: 28249/2048
+2022-08-13 11:43:02,599 [DEBUG] yandextank.common.interfaces plugin.py:75	Memory free: 2201/512
+2022-08-13 11:43:02,599 [DEBUG] yandextank.core.tankcore tankcore.py:253	Preparing <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f8a7ed00d10>
+2022-08-13 11:43:02,599 [INFO] root plugin.py:523	Using OVERLOAD backend
+2022-08-13 11:43:02,600 [DEBUG] yandextank.plugins.DataUploader.plugin plugin.py:618	Trying to read token from token.txt
+2022-08-13 11:43:02,600 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:624	Read authentication token from token.txt, token length is 32 bytes
+2022-08-13 11:43:02,617 [INFO] yandextank.plugins.DataUploader.client client.py:59	Proxy not set
+2022-08-13 11:43:02,618 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:647	Detected target: 
+2022-08-13 11:43:02,629 [DEBUG] yandextank.plugins.DataUploader.client client.py:336	Job create request: {'person': 'root', 'host': '', 'task': '', 'tank': 'ubuntu', 'notify': [], 'loadscheme': [], 'detailed_time': None, 'port': 80}
+2022-08-13 11:43:02,632 [DEBUG] urllib3.connectionpool connectionpool.py:813	Starting new HTTPS connection (1): overload.yandex.net:443
+2022-08-13 11:43:02,955 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/create.json?api_token=468e142f8ae64ca09d4691f5756dce51 HTTP/1.1" 200 None
+2022-08-13 11:43:02,959 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:789	Job created: 542531
+2022-08-13 11:43:02,961 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinitial config
+2022-08-13 11:43:03,090 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/542531/configinitial.txt?api_token=468e142f8ae64ca09d4691f5756dce51 HTTP/1.1" 200 16
+2022-08-13 11:43:03,091 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:485	Locking targets: []
+2022-08-13 11:43:03,092 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:487	Locked targets: []
+2022-08-13 11:43:03,109 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/job_no: 542531
+2022-08-13 11:43:03,306 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/542531/edit.json?api_token=468e142f8ae64ca09d4691f5756dce51 HTTP/1.1" 200 19
+2022-08-13 11:43:03,309 [DEBUG] yandextank.core.tankcore tankcore.py:391	Searching for plugin: <class 'yandextank.plugins.Console.plugin.Plugin'>
+2022-08-13 11:43:03,310 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinitial config
+2022-08-13 11:43:03,441 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/542531/configinitial.txt?api_token=468e142f8ae64ca09d4691f5756dce51 HTTP/1.1" 200 16
+2022-08-13 11:43:03,444 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinfo config
+2022-08-13 11:43:03,608 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/542531/configinfo.txt?api_token=468e142f8ae64ca09d4691f5756dce51 HTTP/1.1" 200 16
+2022-08-13 11:43:03,609 [INFO] yandextank.core.tankcore tankcore.py:259	Starting test...
+2022-08-13 11:43:03,613 [INFO] yandextank.aggregator.tank_aggregator tank_aggregator.py:63	using verbose histogram
+2022-08-13 11:43:03,618 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f8a7ed000d0>
+2022-08-13 11:43:03,619 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f8a7ed000d0> required 0.000006 seconds to start
+2022-08-13 11:43:03,619 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f8a7ed5ad10>
+2022-08-13 11:43:03,619 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f8a7ed5ad10> required 0.000002 seconds to start
+2022-08-13 11:43:03,620 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f8a7ed006d0>
+2022-08-13 11:43:03,620 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f8a7ed006d0> required 0.000003 seconds to start
+2022-08-13 11:43:03,620 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.Console.plugin.Plugin object at 0x7f8a7ed00d50>
+2022-08-13 11:43:03,621 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.Console.plugin.Plugin object at 0x7f8a7ed00d50> required 0.000002 seconds to start
+2022-08-13 11:43:03,621 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.JMeter.plugin.Plugin object at 0x7f8a7ed003d0>
+2022-08-13 11:43:03,621 [INFO] yandextank.plugins.JMeter.plugin plugin.py:119	Starting /usr/local/apache-jmeter-3.3/bin/jmeter with arguments: ['/usr/local/apache-jmeter-3.3/bin/jmeter', '-n', '-t', '/var/loadtest/modified_HsvwGL.jmx', '-j', '/var/loadtest/logs/2022-08-13_11-43-01.965153/jmeter_fWsTk_.log', '-Jjmeter.save.saveservice.default_delimiter=\\t', '-Jjmeter.save.saveservice.connect_time=true']
+2022-08-13 11:43:10,226 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.JMeter.plugin.Plugin object at 0x7f8a7ed003d0> required 6.604525 seconds to start
+2022-08-13 11:43:10,227 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f8a7ed00210>
+2022-08-13 11:43:10,227 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f8a7ed00210> required 0.000012 seconds to start
+2022-08-13 11:43:10,228 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f8a7ed00e10>
+2022-08-13 11:43:10,229 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f8a7ed00e10> required 0.000005 seconds to start
+2022-08-13 11:43:10,229 [DEBUG] yandextank.core.tankcore tankcore.py:263	Starting <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f8a7ed00d10>
+2022-08-13 11:43:10,230 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:394	Status sender thread started
+2022-08-13 11:43:10,231 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:413	Data Uploader thread started
+2022-08-13 11:43:10,233 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:413	Monitoring Uploader thread started
+2022-08-13 11:43:10,232 [INFO] yandextank.plugins.DataUploader.plugin plugin.py:298	Web link: https://overload.yandex.net/542531
+2022-08-13 11:43:10,234 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/jobno: 542531
+2022-08-13 11:43:10,234 [DEBUG] yandextank.common.interfaces interfaces.py:101	Publishing status: Plugin/web_link: https://overload.yandex.net/542531
+2022-08-13 11:43:10,235 [DEBUG] yandextank.plugins.DataUploader.plugin plugin.py:305	Saving jobno to: jobno_file.txt
+2022-08-13 11:43:10,236 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): jobno_file.txt
+2022-08-13 11:43:10,237 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinitial config
+2022-08-13 11:43:10,327 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/542531/configinitial.txt?api_token=468e142f8ae64ca09d4691f5756dce51 HTTP/1.1" 200 16
+2022-08-13 11:43:10,331 [DEBUG] yandextank.plugins.DataUploader.client client.py:642	Sending configinfo config
+2022-08-13 11:43:10,429 [DEBUG] urllib3.connectionpool connectionpool.py:393	https://overload.yandex.net:443 "POST /api/job/542531/configinfo.txt?api_token=468e142f8ae64ca09d4691f5756dce51 HTTP/1.1" 200 16
+2022-08-13 11:43:10,432 [INFO] yandextank.core.tankcore tankcore.py:267	Plugin <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f8a7ed00d10> required 0.202229 seconds to start
+2022-08-13 11:43:10,433 [INFO] yandextank.core.tankcore tankcore.py:274	Waiting for test to finish...
+2022-08-13 11:43:10,434 [INFO] yandextank.core.tankcore tankcore.py:275	Artifacts dir: /var/loadtest/logs/2022-08-13_11-43-01.965153
+2022-08-13 11:43:10,434 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2022-08-13 11:43:10,435 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2022-08-13 11:43:10,435 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f8a7ed000d0>
+2022-08-13 11:43:10,436 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f8a7ed5ad10>
+2022-08-13 11:43:10,436 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f8a7ed006d0>
+2022-08-13 11:43:10,437 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f8a7ed00d50>
+2022-08-13 11:43:10,438 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 80x24
+2022-08-13 11:43:10,438 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 51/24
+2022-08-13 11:43:10,439 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 3 info widgets
+2022-08-13 11:43:10,439 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.JMeter.plugin.JMeterInfoWidget object at 0x7f8a7ed5a790>
+2022-08-13 11:43:10,440 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f8a7ed5a850>
+2022-08-13 11:43:10,440 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f8a7ed5a390>
+2022-08-13 11:43:10,440 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2022-08-13 11:43:10,443 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2022-08-13 11:43:10,444 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JMeter.plugin.Plugin object at 0x7f8a7ed003d0>
+2022-08-13 11:43:10,444 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2022-08-13 11:43:10,445 [INFO] yandextank.plugins.JMeter.plugin plugin.py:146	JMeter process finished with exit code: 0, waiting for aggregator
+2022-08-13 11:43:10,445 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.RCAssert.plugin.Plugin object at 0x7f8a7ed00210>
+2022-08-13 11:43:10,446 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ResourceCheck.plugin.Plugin object at 0x7f8a7ed00e10>
+2022-08-13 11:43:10,446 [DEBUG] yandextank.common.interfaces plugin.py:44	Checking tank resources...
+2022-08-13 11:43:10,446 [DEBUG] netort.process process.py:23	Starting: sh -c "df --no-sync -m -P -l -x fuse -x tmpfs -x devtmpfs -x davfs -x nfs /var/loadtest/logs | tail -n 1 | awk '{print \$4}' "
+2022-08-13 11:43:11,031 [DEBUG] netort.process process.py:46	Process output:
+28249
+
+2022-08-13 11:43:11,032 [DEBUG] netort.process process.py:48	Process exit code: 0
+2022-08-13 11:43:11,032 [DEBUG] root plugin.py:58	Result: (0, '28249\n', '')
+2022-08-13 11:43:11,032 [DEBUG] yandextank.common.interfaces plugin.py:64	Disk free space: 28249/2048
+2022-08-13 11:43:11,033 [DEBUG] yandextank.common.interfaces plugin.py:75	Memory free: 2208/512
+2022-08-13 11:43:11,033 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.DataUploader.plugin.Plugin object at 0x7f8a7ed00d10>
+2022-08-13 11:43:11,033 [DEBUG] yandextank.core.tankcore tankcore.py:292	Polling took 0.598847866058
+2022-08-13 11:43:11,033 [DEBUG] yandextank.core.tankcore tankcore.py:293	Tank status: {"core": {"stage": "shoot"}, "uploader": {"task": "", "web_link": "https://overload.yandex.net/542531", "job_name": "none", "person": "root", "version": "", "meta": {"loop_count": 0, "cmdline": "/usr/local/bin/yandex-tank -c load.yaml", "target_port": 80, "ammo_path": "/var/loadtest", "target_host": ""}, "job_no": 542531, "job_dsc": ""}, "Plugin": {"web_link": "https://overload.yandex.net/542531", "jobno": 542531, "job_no": 542531}}
+2022-08-13 11:43:11,034 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:87	Data timestamps: []
+2022-08-13 11:43:11,034 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:88	Stats timestamps: []
+2022-08-13 11:43:11,034 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JsonReport.plugin.Plugin object at 0x7f8a7ed000d0>
+2022-08-13 11:43:11,034 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Autostop.plugin.Plugin object at 0x7f8a7ed5ad10>
+2022-08-13 11:43:11,034 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.ShellExec.plugin.Plugin object at 0x7f8a7ed006d0>
+2022-08-13 11:43:11,035 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.Console.plugin.Plugin object at 0x7f8a7ed00d50>
+2022-08-13 11:43:11,035 [DEBUG] yandextank.plugins.Console.screen screen.py:389	Terminal size: 80x24
+2022-08-13 11:43:11,035 [DEBUG] yandextank.plugins.Console.screen screen.py:401	Left/right panels width: 51/24
+2022-08-13 11:43:11,035 [DEBUG] yandextank.plugins.Console.screen screen.py:406	There are 3 info widgets
+2022-08-13 11:43:11,035 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #0: <yandextank.plugins.JMeter.plugin.JMeterInfoWidget object at 0x7f8a7ed5a790>
+2022-08-13 11:43:11,036 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #1: <yandextank.plugins.DataUploader.plugin.JobInfoWidget object at 0x7f8a7ed5a850>
+2022-08-13 11:43:11,036 [DEBUG] yandextank.plugins.Console.screen screen.py:410	Rendering info widget #25: <yandextank.plugins.Autostop.plugin.AutostopWidget object at 0x7f8a7ed5a390>
+2022-08-13 11:43:11,036 [DEBUG] yandextank.plugins.Console.screen screen.py:367	Rendering left blocks
+2022-08-13 11:43:11,037 [DEBUG] yandextank.plugins.Console.screen screen.py:418	Composing final screen output
+2022-08-13 11:43:11,038 [DEBUG] yandextank.core.tankcore tankcore.py:286	Polling <yandextank.plugins.JMeter.plugin.Plugin object at 0x7f8a7ed003d0>
+2022-08-13 11:43:11,038 [INFO] yandextank.core.tankcore tankcore.py:301	Finishing test...
+2022-08-13 11:43:11,038 [DEBUG] yandextank.plugins.Console.plugin plugin.py:73	Writing console view to STDOUT
+2022-08-13 11:43:11,039 [INFO] yandextank.core.tankcore tankcore.py:303	Stopping load generator and aggregator
+2022-08-13 11:43:11,040 [DEBUG] yandextank.core.tankcore tankcore.py:446	Adding artifact file to collect (keep=False): /var/loadtest/logs/2022-08-13_11-43-01.965153/jmeter_fWsTk_.log
+2022-08-13 11:43:11,040 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:123	Closing stats reader
+2022-08-13 11:43:11,040 [DEBUG] yandextank.aggregator.tank_aggregator tank_aggregator.py:126	Waiting for gun drain to finish

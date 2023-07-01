@@ -1,0 +1,7 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_hK2cyc.jmx
+Starting the test @ Sat Aug 13 12:06:36 UTC 2022 (1660392396992)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary =     20 in 00:00:01 =   18.3/s Avg:   106 Min:    19 Max:   296 Err:    20 (100.00%)
+Tidying up ...    @ Sat Aug 13 12:06:38 UTC 2022 (1660392398808)
+... end of run

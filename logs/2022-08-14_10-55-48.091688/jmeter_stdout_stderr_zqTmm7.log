@@ -1,0 +1,7 @@
+Creating summariser <summary>
+Created the tree successfully using /var/loadtest/modified_WxQOxg.jmx
+Starting the test @ Sun Aug 14 10:55:51 UTC 2022 (1660474551694)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary =    400 in 00:00:02 =  261.6/s Avg:     5 Min:     0 Max:   114 Err:   400 (100.00%)
+Tidying up ...    @ Sun Aug 14 10:55:53 UTC 2022 (1660474553902)
+... end of run
